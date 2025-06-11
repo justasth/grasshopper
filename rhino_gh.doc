@@ -1,0 +1,7 @@
+极小曲面（Minimal Surface）：在数学中，极小曲面是指平均曲率为零的曲面。
+
+曲率：用来表达曲线/面的弯曲程度，可以理解为曲线/面上某点切线/面的密切圆/球的半径的倒数就是曲率。（密切圆/球半径越大弯曲程度越小）
+
+计算公式：https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Gyroid
+gyroid minimal surface：
+sin(x)*cos(y)+sin(y)*cos(z)+sin(z)*cos(x)
