@@ -8,3 +8,8 @@ https://www.giuliopiacentino.com/portfolio/
 forums：
 https://discourse.mcneel.com/
 
+气象数据下载 直接访问：
+https://epwmap.gbuilding.online/
+
+ladybug提供的气象数据下载：
+https://www.ladybug.tools/epwmap/
